@@ -38,3 +38,10 @@ this project calculates ram usage of linux based systems and store it on sqlite 
 
 
 
+  for testing api use this command:
+
+     pytest test_api.py
+
+
+
+
